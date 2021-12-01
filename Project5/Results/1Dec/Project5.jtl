@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1638183827891,213,Java Request,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1638183828111,174,Java Request,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1638183828288,104,Java Request,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1638183828396,206,Java Request,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
+1638183828606,163,Java Request,200,OK,Thread Group 1-1,text,true,,0,0,1,1,null,0,0,0
